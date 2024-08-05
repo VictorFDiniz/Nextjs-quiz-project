@@ -1,6 +1,6 @@
 # Next.js Quiz Project
 
-Este é um projeto de um quiz interativo desenvolvido com Next.js no curso de React e Next.js da Coders.
+Este é um projeto de um quiz desenvolvido com Next.js e TypeScript no curso de React e Next.js da Coders.
 
 ## Visão Geral do Projeto
 
@@ -11,9 +11,9 @@ Este é um projeto de um quiz interativo desenvolvido com Next.js no curso de Re
 
 ## Tecnologias Utilizadas
 
-- **Next.js**: Framework React para aplicações web.
-- **TypeScript**: Tipagem estática para JavaScript.
-- **CSS Modules**: Estilização dos componentes.
+- **Next.js**
+- **TypeScript**
+- **CSS Modules**
 
 ## Como Executar
 
